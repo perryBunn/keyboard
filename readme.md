@@ -71,7 +71,7 @@ Enhancement suggestions are tracked as GitHub issues. After you've determined wh
 
 
 #### Code Contribution
-Unsure where to begin contributing to Atom? You can start by looking through these `beginner` and `help-wanted` issues:
+Unsure where to begin contributing to keyboard? You can start by looking through these `beginner` and `help-wanted` issues:
 
 - Beginner issues - issues which should only require a few lines of code, and a test or two.
 - Help wanted issues - issues which should be a bit more involved than `beginner` issues.
@@ -83,8 +83,8 @@ Both issue lists are sorted by total number of comments. While not perfect, numb
 The process described here has several goals:
 - Maintain keyboards quality
 - Fix problems that are important to users
-- Engage the community in working toward the best possible Atom
-- Enable a sustainable system for Atom's maintainers to review contributions
+- Engage the community in working toward the best possible keyboard
+- Enable a sustainable system for keyboards's maintainers to review contributions
 
 Please follow these steps to have your contribution considered by the maintainers:
 
