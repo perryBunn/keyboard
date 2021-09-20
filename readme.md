@@ -18,7 +18,7 @@ The project uses kiCAD for the schematic and PCB modeling. In the future when I 
 	- [Suggest Enhancments](#Suggest-Enhancments)
 	- [Code Contribution](#Code-Contribution)
 	- [Pull Request](#Pull-Request)
-- [Styleguides]
+- [Styleguides](#styleguides)
 	- [Git Commit Messages](#Git-Commit-Messages)
 	- [Documentation Styleguide](#Documentation-Styleguide)
 
@@ -34,7 +34,7 @@ This section guides you through submitting a bug report for keyboard. Following 
 
 Before creating bug reports, please check this list as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible. Fill out the required template, the information it asks for helps us resolve issues faster.
 
-    Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+```Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.```
 
 ##### How Do I Submit A Bug Report?
 Bugs are tracked as GitHub issues.
@@ -104,21 +104,21 @@ While the prerequisites above must be satisfied prior to having your pull reques
 - Reference issues and pull requests liberally after the first line
 - When only changing documentation, include [ci skip] in the commit title
 - Consider starting the commit message with an applicable emoji:
-	- 🎨 :art: when improving the format/structure of the code
-	- 🐎 :racehorse: when improving performance
-	- 🚱 :non-potable_water: when plugging memory leaks
-	- 📝 :memo: when writing docs
-	- 🐧 :penguin: when fixing something on Linux
-	- 🍎 :apple: when fixing something on macOS
-	- 🏁 :checkered_flag: when fixing something on Windows
-	- 🐛 :bug: when fixing a bug
-	- 🔥 :fire: when removing code or files
-	- 💚 :green_heart: when fixing the CI build
-	- ✅ :white_check_mark: when adding tests
-	- 🔒 :lock: when dealing with security
-	- ⬆️ :arrow_up: when upgrading dependencies
-	- ⬇️ :arrow_down: when downgrading dependencies
-	- 👕 :shirt: when removing linter warnings
+	- 🎨 `:art:` when improving the format/structure of the code
+	- 🐎 `:racehorse:` when improving performance
+	- 🚱 `:non-potable_water:` when plugging memory leaks
+	- 📝 `:memo:` when writing docs
+	- 🐧 `:penguin:` when fixing something on Linux
+	- 🍎 `:apple:` when fixing something on macOS
+	- 🏁 `:checkered_flag:` when fixing something on Windows
+	- 🐛 `:bug:` when fixing a bug
+	- 🔥 `:fire:` when removing code or files
+	- 💚 `:green_heart:` when fixing the CI build
+	- ✅ `:white_check_mark:` when adding tests
+	- 🔒 `:lock:` when dealing with security
+	- ⬆️ `:arrow_up:` when upgrading dependencies
+	- ⬇️ `:arrow_down:` when downgrading dependencies
+	- 👕 `:shirt:` when removing linter warnings
 
 #### Documentation Styleguide
 - Use [Markdown](https://daringfireball.net/projects/markdown).
