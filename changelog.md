@@ -6,7 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [0.0.2.1] - 2021-08-20
+## [0.0.2.1b-d] - 2021-09-20
+### Changed
+- Fixed links in readme.
+- Fixed formating of text in readme.
+- Fixed typo in changelog file name.
+- Fixed date in changelog.
+
+## [0.0.2.1] - 2021-09-20
 ### Changed
 - Changed some text in the readme to properly show in Github.
 
