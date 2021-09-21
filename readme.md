@@ -1,4 +1,6 @@
 # keyboard
+![60% keyboard](https://github.com/perryBunn/keyboard/blob/main/60p-layout.png?raw=true)
+
 This project is to design a mechanical keyboard with a integrated fingerprint reader. I hope to keep all of the components within a 60% form factor to enable the use of other standard components.
 
 
